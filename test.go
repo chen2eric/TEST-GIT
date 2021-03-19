@@ -1,6 +1,6 @@
 package main
 
-//12345
+//123456
 func main() {
 
 }
