@@ -1,6 +1,6 @@
 package main
 
-//123456789gi
+//132312123456789gi
 func main() {
-	//dasasd
+	//fmt.Println
 }
