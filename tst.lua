@@ -1,7 +1,7 @@
 -- 元类
 Rectangle = {area = 0, length = 0, breadth = 0}
 
--- 派生类的方法 new
+-- 派生类的方法 new 123123123
 function Rectangle:new (o,length,breadth)
   o = o or {}
   setmetatable(o, self)
