@@ -1,4 +1,4 @@
--- 元类
+-- 元类123
 Rectangle = {area = 0, length = 0, breadth = 0}
 
 -- 派生类的方法 new 123123123
